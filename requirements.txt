@@ -2,3 +2,4 @@ face_recognition
 tensorflow
 numpy
 pandas
+streamlit
